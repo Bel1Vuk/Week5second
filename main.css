@@ -34,7 +34,7 @@ align-items: center;
    
     display: flex;
     align-items: center;
-    justify-content: space-between;
+        
     width: 65%;
     height: 38px;
     border-radius: 5px;
@@ -81,6 +81,8 @@ align-items: center;
     margin-bottom:24px ; 
     
 }
+
+/* comment */
 .form{
 
     width: 100%;
